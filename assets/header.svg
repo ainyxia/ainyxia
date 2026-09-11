@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="300" viewBox="0 0 960 300" role="img" aria-labelledby="title desc">
+  <title id="title">XiaAiny — small tools, real utility</title>
+  <desc id="desc">A midnight-blue terminal banner with a mint pixel AX monogram and amber accents.</desc>
+  <rect width="960" height="300" rx="16" fill="#0c1726"/>
+  <path d="M0 48H960" stroke="#243546"/>
+  <g fill="#456074"><rect x="26" y="21" width="8" height="8"/><rect x="44" y="21" width="8" height="8"/><rect x="62" y="21" width="8" height="8"/></g>
+  <text x="92" y="30" fill="#a8bdca" font-family="Consolas, monospace" font-size="13">~/ainyxia</text>
+  <rect x="833" y="22" width="6" height="6" fill="#a6f4cc"/>
+  <text x="850" y="30" fill="#a6f4cc" font-family="Consolas, monospace" font-size="12">PROFILE</text>
+  <text x="44" y="100" fill="#a6f4cc" font-family="Consolas, monospace" font-size="14" letter-spacing="2">HELLO, WORLD_</text>
+  <text x="40" y="171" fill="#f4ecd8" font-family="Segoe UI, Arial, sans-serif" font-size="64" font-weight="700" letter-spacing="-2">XiaAiny<tspan fill="#ffc568">.</tspan></text>
+  <text x="44" y="210" fill="#a8bdca" font-family="Consolas, monospace" font-size="19">small tools. real utility.</text>
+  <path d="M44 245H454" stroke="#243546"/>
+  <text x="44" y="273" fill="#7894a8" font-family="Consolas, monospace" font-size="12" letter-spacing="1">WINDOWS / LOCAL TOOLS / EXPERIMENTS</text>
+  <g transform="translate(665 88)">
+    <path d="M0 24V0H24M176 0H200V24M200 134V158H176M24 158H0V134" fill="none" stroke="#456074" stroke-width="4"/>
+    <g fill="#a6f4cc" shape-rendering="crispEdges">
+      <path d="M32 42h36v12H32zM20 54h12v60H20zM68 54h12v60H68zM32 78h36v12H32z"/>
+      <path d="M104 42h12v12h-12zM152 42h12v12h-12zM116 54h12v12h-12zM140 54h12v12h-12zM128 66h12v24h-12zM116 90h12v12h-12zM140 90h12v12h-12zM104 102h12v12h-12zM152 102h12v12h-12z"/>
+    </g>
+    <rect x="176" y="102" width="12" height="12" fill="#ffc568"/>
+  </g>
+</svg>
